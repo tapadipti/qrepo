@@ -2,3 +2,4 @@
     remote = storage
 ['remote "storage"']
     url = s3://tapa-test-s3/dvc-remote/qr
+    endpointurl = https://tds-dvc.nyc3.digitaloceanspaces.com
